@@ -21,10 +21,6 @@ regex_patterns = {
     'UNTIL': r'until',
     'FOR': r'for',
     'TO': r'to',
-    'WRITELN': r'writeln',
-    'WRITE': r'write',
-    'READLN': r'readln',
-    'READ': r'read',
     'FUNCTION': r'function',
     'PROCEDURE': r'procedure',
     'NOT': r'not',
@@ -51,7 +47,7 @@ KEY_WORDS = ['AND', 'ARRAY', 'BEGIN', 'BOOLEAN', 'CASE', 'CHAR', 'CONST', 'DIV',
              'DO', 'DOWNTO', 'ELSE', 'END', 'FILE', 'FOR', 'FUNCTION', 'GOTO', 'IF',
              'IN', 'INTEGER', 'LABEL', 'MOD', 'NIL', 'NOT', 'OF', 'OR', 'PACKED',
              'PROCEDURE', 'PROGRAM', 'REAL', 'RECORD', 'REPEAT', 'SET', 'THEN', 'TO',
-             'TYPE', 'UNTIL', 'VAR', 'WHILE', 'WITH', 'WRITELN', 'WRITE', 'READ', 'READLN'
+             'TYPE', 'UNTIL', 'VAR', 'WHILE', 'WITH'
              ]
 
 
